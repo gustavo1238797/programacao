@@ -6,7 +6,7 @@ body {
 }
 
 .menu {
-    background-color: #333;
+    background-color: green;
     overflow: hidden;
     text-align: center;
 }
@@ -31,13 +31,13 @@ body {
 }
 
 .menu a:hover {
-    background-color: #ddd;
+    background-color: lightgray;
     color: black;
 }
 
 .balao-fala {
-    background-color: #f9f9f9;
-    border: 1px solid #ccc;
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
     border-radius: 5px;
     padding: 30px;
     position: fixed;
@@ -48,7 +48,7 @@ body {
 }
 
 .balao-fala .fechar {
-    color: #aaa;
+    color: darkgray;
     float: right;
     font-size: 20px;
     font-weight: bold;
